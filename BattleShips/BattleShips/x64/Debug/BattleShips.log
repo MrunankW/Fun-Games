@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Game Dev\Learnings\BattleShips\main.cpp(21,14): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Game Dev\Learnings\BattleShips\main.cpp(40,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BattleShips.vcxproj -> D:\Game Dev\Learnings\BattleShips\x64\Debug\BattleShips.exe
